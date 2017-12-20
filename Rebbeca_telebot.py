@@ -58,6 +58,12 @@ class ConSQL(object):
         '''if the db file exists then making cursor, if that is not created then make new db file and initialize db schema'''
         pass
         
+
+class ParsingCMD(object):
+    '''It parses the messages from telepot'''
+    # TODO parsing the messages and return values
+    pass
+
         
 
 class GetLotto(object):
